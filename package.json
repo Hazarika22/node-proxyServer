@@ -5,6 +5,8 @@
   "main": "proxy.js",
   "scripts": {
     "start": "node proxy.js",
+    "vercel-build": "exit 0",
+    "build": "exit 0",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
